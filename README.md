@@ -244,6 +244,16 @@
             
             <div class="info-card">
                 <div class="icon-box">
+                    <i class="fa-solid fa-graduation-cap"></i>
+                </div>
+                <div class="text-box">
+                    <span class="info-label">คณะ</span>
+                    <span class="info-value">วิทยาศาสตร์และเทคโนโลยี</span>
+                </div>
+            </div>
+
+            <div class="info-card">
+                <div class="icon-box">
                     <i class="fa-solid fa-laptop-code"></i>
                 </div>
                 <div class="text-box">
